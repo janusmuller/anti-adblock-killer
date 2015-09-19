@@ -1802,4 +1802,5 @@ go4up.com##[href^="http://liversely.com/g4u?q="]
 go4up.com##[href^="http://go.ad2up.com/afu.php?id="]
 ! academia.edu
 @@||api.academia.edu/v0/users/*/stats$script
+! 990.ro
 @@||990.ro/functions/adgen2/adbanner.js?$script,~third-party
